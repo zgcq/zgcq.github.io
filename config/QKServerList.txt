@@ -1,5 +1,5 @@
 ;服务器分组|游戏名称|游戏IP地址|端口|公告地址|网站主页|装备展示|网关密码|防火墙，0-关闭、1-恶魔盾|轻端地址|轻端端口
 
 ;例如：
-合击复古服|青青子衿|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-连击心法服|悠悠我心(封测)|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+复古合击区|青青子衿|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+连击心法区|悠悠我心(封测)|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
