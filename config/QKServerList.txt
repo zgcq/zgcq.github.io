@@ -2,4 +2,4 @@
 
 ;例如：
 复古合击区|青青子衿|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-连击心法区|悠悠我心(封测)|mir2-server-1.dspi.me|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+连击心法区|悠悠我心(封测)|127.0.0.1|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
