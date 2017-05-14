@@ -2,3 +2,4 @@
 
 ;例如：
 战国传奇全网通服务器|青青子衿|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇全网通服务器|悠悠我心|mir2-server-1.dspi.me|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
