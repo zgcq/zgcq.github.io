@@ -1,9 +1,9 @@
 ;服务器分组|游戏名称|游戏IP地址|端口|公告地址|网站主页|装备展示|网关密码|防火墙，0-关闭、1-恶魔盾|轻端地址|轻端端口
 
 ;例如：
-战国传奇赤壁怀古战区|大江东去|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇赤壁怀古战区|千古风流|mir2-server-1.dspi.me|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇赤壁怀古战区|乱石穿空|mir2-server-1.dspi.me|6040|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇赤壁怀古战区|惊涛拍岸|mir2-server-1.dspi.me|6050|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇赤壁怀古战区|江山如画|mir2-server-1.dspi.me|6055|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇赤壁怀古战区|测试专区|mir2-server-1.dspi.me|6045|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|大江东去(1区)|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|千古风流(2区)|mir2-server-1.dspi.me|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|乱石穿空(3区)|mir2-server-1.dspi.me|6040|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|惊涛拍岸(4区)|mir2-server-1.dspi.me|6050|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|江山如画(5区)|mir2-server-1.dspi.me|6055|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇赤壁怀古战区|测试专区(1战)|mir2-server-1.dspi.me|6045|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
