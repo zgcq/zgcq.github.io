@@ -8,10 +8,10 @@
 战国传奇赤壁怀古战区|江山如画(五区)|mir2-server-1.dspi.me|6055|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国传奇赤壁怀古战区|人生如梦(六区)|mir2-server-1.dspi.me|6060|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国传奇赤壁怀古战区|测试专区(公测)|mir2-server-1.dspi.me|6045|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|六国合纵(封测)|mir2-server-1.dspi.me|6065|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|平定辽东(封测)|mir2-server-1.dspi.me|6070|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|乐毅变法(封测)|mir2-server-1.dspi.me|6080|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|燕失中阳(封测)|mir2-server-1.dspi.me|6085|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|荆轲刺秦(封测)|mir2-server-1.dspi.me|6090|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|国灭辽东(封测)|mir2-server-1.dspi.me|6095|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国燕国兴亡怀古战区|测试专区(封测)|mir2-server-1.dspi.me|6075|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|六国合纵(封测)|mir2-server-1.dspi.me|6065|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|平定辽东(封测)|mir2-server-1.dspi.me|6070|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|乐毅变法(封测)|mir2-server-1.dspi.me|6080|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|燕失中阳(封测)|mir2-server-1.dspi.me|6085|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|荆轲刺秦(封测)|mir2-server-1.dspi.me|6090|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|国灭辽东(封测)|mir2-server-1.dspi.me|6095|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|测试专区(封测)|mir2-server-1.dspi.me|6075|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
