@@ -14,4 +14,3 @@
 战国传奇燕国兴亡战区|燕失中阳(封测)|mir2-server-1.dspi.me|6085|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国传奇燕国兴亡战区|荆轲刺秦(封测)|mir2-server-1.dspi.me|6090|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国传奇燕国兴亡战区|国灭辽东(封测)|mir2-server-1.dspi.me|6095|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|测试专区(封测)|mir2-server-1.dspi.me|6075|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
