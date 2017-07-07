@@ -2,7 +2,7 @@
 ;登录器自身进行更新，此节点只能有一行数据，如空间不支持exe下载，后缀可支持任意名
 ;格式：Self=md5,下载地址
 ;例：Self=md5,http://www.xxx.com/xxx.exe
-Self=039076dc3b49fe54557272eb3a809c5f,http://sos-gl-r.doopai.com/downloads/%E6%88%98%E5%9B%BD%E4%BC%A0%E5%A5%87%E7%99%BB%E9%99%86%E5%99%A8_20170629_1.exe
+Self=ca7f37fb574ad2024d70ca5feaf77c50,http://ojlxbcva6.bkt.clouddn.com/downloads/%E6%88%98%E5%9B%BD%E4%BC%A0%E5%A5%87%E7%99%BB%E5%BD%95%E5%99%A8_20170707_1.exe
 
 [FileUpdate]
 ;普通文件更新，一行一个文件
