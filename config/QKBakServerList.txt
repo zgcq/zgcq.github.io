@@ -3,11 +3,11 @@
 ;例如：
 
 战国传奇燕国兴亡战区|六国合纵(一区)|mir2-server-1.dspi.me|6065|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|襄平建城(封测)|mir2-server-1.dspi.me|6070|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|乐毅变法(封测)|mir2-server-1.dspi.me|6080|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|燕失中阳(封测)|mir2-server-1.dspi.me|6085|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|荆轲刺秦(封测)|mir2-server-1.dspi.me|6090|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-战国传奇燕国兴亡战区|国灭辽东(封测)|mir2-server-1.dspi.me|6095|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|襄平建城(未开)|mir2-server-1.dspi.me|6070|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|乐毅变法(未开)|mir2-server-1.dspi.me|6080|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|燕失中阳(未开)|mir2-server-1.dspi.me|6085|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|荆轲刺秦(未开)|mir2-server-1.dspi.me|6090|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国传奇燕国兴亡战区|国灭辽东(未开)|mir2-server-1.dspi.me|6095|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 
 战国传奇赤壁怀古战区|大江东去(一区)|mir2-server-1.dspi.me|6030|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国传奇赤壁怀古战区|千古风流(二区)|mir2-server-1.dspi.me|6035|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
