@@ -1,0 +1,11 @@
+;服务器分组|游戏名称|游戏IP地址|端口|公告地址|网站主页|装备展示|网关密码|防火墙，0-关闭、1-恶魔盾|轻端地址|轻端端口
+
+;例如：
+
+战国心法一统天下战区|商鞅变法(公测)|mir2-server-1.dspi.me|6300|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国心法一统天下战区|苏秦连横(封测)|mir2-server-1.dspi.me|6305|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国心法一统天下战区|齐楚攻秦(封测)|mir2-server-1.dspi.me|6310|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国心法一统天下战区|惠文称王(封测)|mir2-server-1.dspi.me|6315|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国心法一统天下战区|大国崛起(封测)|mir2-server-1.dspi.me|6320|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+战国心法一统天下战区|一统天下(封测)|mir2-server-1.dspi.me|6325|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
+
