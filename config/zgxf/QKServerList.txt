@@ -8,4 +8,4 @@
 战国心法一统天下战区|惠文称王(封测)|mir2-server-1.dspi.me|6315|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国心法一统天下战区|大国崛起(封测)|mir2-server-1.dspi.me|6320|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
 战国心法一统天下战区|一统天下(封测)|mir2-server-1.dspi.me|6325|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
-
+战国心法内部测试战区|内部测试(一区)|127.0.0.1|7000|http://dspi.me/notice.html|http://dspi.me|http://dspi.me|frxq20svq6dm|0|micro-client.dspi.me|8010
